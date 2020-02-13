@@ -1,0 +1,11 @@
+ Volume in drive C is OS
+ Volume Serial Number is FC6B-7982
+
+ Directory of C:\Users\avina\Desktop\JENKINS\jenkins project
+
+12/02/2020  09:49 PM    <DIR>          .
+12/02/2020  09:49 PM    <DIR>          ..
+12/02/2020  09:24 PM               361 Date.txt
+12/02/2020  09:49 PM                 0 index.txt
+               2 File(s)            361 bytes
+               2 Dir(s)  88,379,142,144 bytes free
